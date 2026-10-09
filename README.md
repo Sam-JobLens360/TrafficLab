@@ -1,5 +1,10 @@
-
 # TrafficLab
+
+[![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Language](https://img.shields.io/badge/Language-C%23-178600?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Status](https://img.shields.io/badge/Status-Experimental-orange)](https://github.com/Sam-JobLens360/ParanoidCli)
+[![Visibility](https://img.shields.io/badge/Repo-Public-success)](https://github.com/Sam-JobLens360/ParanoidCli)
+
 ## How to run (local LAN)
 
 1. **Build once**:
