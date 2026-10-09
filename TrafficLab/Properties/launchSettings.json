@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TrafficLab": {
+      "commandName": "Project",
+      "commandLineArgs": "--mode receiver --port 5000 --key a99d86633b8c9f98adf0785b9f40dc5d17c8e7840c90a82fab7ba01bede5a0cc  --outdir out"
+    }
+  }
+}
